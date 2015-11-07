@@ -1,0 +1,6 @@
+D:\HackerRank\Algorithms\FindDigits\FindDigitsTask\FindDigitsTask\bin\Debug\FindDigitsTask.exe.config
+D:\HackerRank\Algorithms\FindDigits\FindDigitsTask\FindDigitsTask\bin\Debug\FindDigitsTask.exe
+D:\HackerRank\Algorithms\FindDigits\FindDigitsTask\FindDigitsTask\bin\Debug\FindDigitsTask.pdb
+D:\HackerRank\Algorithms\FindDigits\FindDigitsTask\FindDigitsTask\obj\Debug\FindDigitsTask.csprojResolveAssemblyReference.cache
+D:\HackerRank\Algorithms\FindDigits\FindDigitsTask\FindDigitsTask\obj\Debug\FindDigitsTask.exe
+D:\HackerRank\Algorithms\FindDigits\FindDigitsTask\FindDigitsTask\obj\Debug\FindDigitsTask.pdb

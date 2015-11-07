@@ -1,0 +1,6 @@
+D:\HackerRank\Algorithms\SherlockAndTheBeast\Solution\Solution\bin\Debug\Solution.exe.config
+D:\HackerRank\Algorithms\SherlockAndTheBeast\Solution\Solution\obj\Debug\Solution.csprojResolveAssemblyReference.cache
+D:\HackerRank\Algorithms\SherlockAndTheBeast\Solution\Solution\bin\Debug\Solution.exe
+D:\HackerRank\Algorithms\SherlockAndTheBeast\Solution\Solution\bin\Debug\Solution.pdb
+D:\HackerRank\Algorithms\SherlockAndTheBeast\Solution\Solution\obj\Debug\Solution.exe
+D:\HackerRank\Algorithms\SherlockAndTheBeast\Solution\Solution\obj\Debug\Solution.pdb
