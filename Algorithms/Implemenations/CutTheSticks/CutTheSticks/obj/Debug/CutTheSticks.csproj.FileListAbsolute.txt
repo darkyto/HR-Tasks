@@ -1,0 +1,6 @@
+D:\HackerRank\Algorithms\Implemenations\CutTheSticks\CutTheSticks\bin\Debug\CutTheSticks.exe.config
+D:\HackerRank\Algorithms\Implemenations\CutTheSticks\CutTheSticks\obj\Debug\CutTheSticks.csprojResolveAssemblyReference.cache
+D:\HackerRank\Algorithms\Implemenations\CutTheSticks\CutTheSticks\bin\Debug\CutTheSticks.exe
+D:\HackerRank\Algorithms\Implemenations\CutTheSticks\CutTheSticks\bin\Debug\CutTheSticks.pdb
+D:\HackerRank\Algorithms\Implemenations\CutTheSticks\CutTheSticks\obj\Debug\CutTheSticks.exe
+D:\HackerRank\Algorithms\Implemenations\CutTheSticks\CutTheSticks\obj\Debug\CutTheSticks.pdb
