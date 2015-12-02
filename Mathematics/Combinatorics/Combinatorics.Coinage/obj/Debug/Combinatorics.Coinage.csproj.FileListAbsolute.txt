@@ -1,0 +1,6 @@
+D:\Personal\HackerRank\Combinatorics\Combinatorics\Combinatorics.Coinage\bin\Debug\Combinatorics.Coinage.exe.config
+D:\Personal\HackerRank\Combinatorics\Combinatorics\Combinatorics.Coinage\bin\Debug\Combinatorics.Coinage.exe
+D:\Personal\HackerRank\Combinatorics\Combinatorics\Combinatorics.Coinage\bin\Debug\Combinatorics.Coinage.pdb
+D:\Personal\HackerRank\Combinatorics\Combinatorics\Combinatorics.Coinage\obj\Debug\Combinatorics.Coinage.csprojResolveAssemblyReference.cache
+D:\Personal\HackerRank\Combinatorics\Combinatorics\Combinatorics.Coinage\obj\Debug\Combinatorics.Coinage.exe
+D:\Personal\HackerRank\Combinatorics\Combinatorics\Combinatorics.Coinage\obj\Debug\Combinatorics.Coinage.pdb

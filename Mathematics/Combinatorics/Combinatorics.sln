@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinatorics.Coinage", "Combinatorics.Coinage\Combinatorics.Coinage.csproj", "{95E2C1C1-CE0B-425B-BF25-C5E623CD0DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinatorics.CoingageItterative", "Combinatorics.CoingageItterative\Combinatorics.CoingageItterative.csproj", "{C8267467-42FE-44A0-B8AD-C7E6E6953635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E2C1C1-CE0B-425B-BF25-C5E623CD0DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E2C1C1-CE0B-425B-BF25-C5E623CD0DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E2C1C1-CE0B-425B-BF25-C5E623CD0DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E2C1C1-CE0B-425B-BF25-C5E623CD0DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8267467-42FE-44A0-B8AD-C7E6E6953635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8267467-42FE-44A0-B8AD-C7E6E6953635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8267467-42FE-44A0-B8AD-C7E6E6953635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8267467-42FE-44A0-B8AD-C7E6E6953635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
